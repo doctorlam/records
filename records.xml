@@ -1,14 +1,22 @@
 <?xml version = "1.0" ?>
 <?xml-stylesheet href="records.xsl" type="text/xsl" ?>
 <collection>
-	<title>Blood on the tracks</title>
-	<artist>Bob Dylan</artist>
-	<year>1975</year>
-	<condition>vg</condition>
-
-	<title>Sky Blue Sky</title>
-	<artist>Wilco</artist>
-	<year>2007</year>
-	<condition>nm</condition>
-
+	<record>
+		<title>Blood on the tracks</title>
+		<artist>Bob Dylan</artist>
+		<year>1975</year>
+		<condition>vg</condition>
+	</record>
+	<record>
+		<title>Sky Blue Sky</title>
+		<artist>Wilco</artist>
+		<year>2007</year>
+		<condition>nm</condition>
+	</record>
+	<record>
+		<title>Shakedown Street</title>
+		<artist>Grateful Dead</artist>
+		<year>1978</year>
+		<condition>vg</condition>
+	</record>
 </collection>
