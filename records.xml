@@ -67,4 +67,70 @@
 		<year>2011</year>
 		<condition>vg</condition>
 	</record>
+		<record>
+		<title>Phosphorescent</title>
+		<artist>Phosphorescent</artist>
+		<year>2013</year>
+		<condition>nm</condition>
+	</record>
+		<record>
+		<title>The Band</title>
+		<artist>The Band</artist>
+		<year>1969</year>
+		<condition>nm</condition>
+	</record>
+		<record>
+		<title>OK Computer</title>
+		<artist>Radiohead</artist>
+		<year>1997</year>
+		<condition>nm</condition>
+	</record>
+	<record>
+		<title>Kid A</title>
+		<artist>Radiohead</artist>
+		<year>2000</year>
+		<condition>nm</condition>
+	</record>
+	<record>
+		<title>The Earth is not a Cold Dead Place</title>
+		<artist>Explosions in the Sky</artist>
+		<year>2003</year>
+		<condition>nm</condition>
+	</record>
+	<record>
+		<title>American Beauty</title>
+		<artist>Grateful Dead</artist>
+		<year>1970</year>
+		<condition>nm</condition>
+	</record>
+	<record>
+		<title>Built to Last</title>
+		<artist>Grateful Dead</artist>
+		<year>1989</year>
+		<condition>vg+</condition>
+	</record>
+	<record>
+		<title>Aoxomoxoa</title>
+		<artist>Grateful Dead</artist>
+		<year>1969</year>
+		<condition>g</condition>
+	</record>
+	<record>
+		<title>Terrapin Station</title>
+		<artist>Grateful Dead</artist>
+		<year>1977</year>
+		<condition>vg</condition>
+	</record>
+	<record>
+		<title>Europe '72</title>
+		<artist>Grateful Dead</artist>
+		<year>1972</year>
+		<condition>vg+</condition>
+	</record>
+	<record>
+		<title>Songs in the Key of Life</title>
+		<artist>Stevie Wonder</artist>
+		<year>1976</year>
+		<condition>vg+</condition>
+	</record>
 </collection>

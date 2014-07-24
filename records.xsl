@@ -7,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="records.css" />
 		<script src="sorttable.js"></script>
 
-		!-- Javascript library for sorting comes from http://www.kryogenix.org/code/browser/sorttable/ --!
+		<!-- Javascript library for sorting comes from http://www.kryogenix.org/code/browser/sorttable/ -->
 
 	</head>
 <body>
@@ -23,8 +23,8 @@
 			<tr>
 				<td><xsl:value-of select="artist" /></td>
 				<td><xsl:value-of select="title" /></td>
-				<td><xsl:value-of select="year" /></td>
-				<td><xsl:value-of select="condition" /></td>
+				<td class="center-text"><xsl:value-of select="year" /></td>
+				<td class="center-text"><xsl:value-of select="condition" /></td>
 			</tr>
 		</xsl:for-each>
 	</table>
