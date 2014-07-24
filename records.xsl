@@ -6,16 +6,16 @@
 <body>
 	<table border= "1">
 			<tr>
-				<th>Title</th>
 				<th>Artist</th>
+				<th>Title</th>
 				<th>Year</th>
 				<th>Condition</th>
 			</tr>
 		<xsl:for-each select="record">
 			<xsl:sort select="artist"/>
 			<tr>
-				<td><xsl:value-of select="title" /></td>
 				<td><xsl:value-of select="artist" /></td>
+				<td><xsl:value-of select="title" /></td>
 				<td><xsl:value-of select="year" /></td>
 				<td><xsl:value-of select="condition" /></td>
 			</tr>
