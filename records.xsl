@@ -7,8 +7,8 @@
 		<link rel="stylesheet" type="text/css" href="records.css" />
 		<script src="sorttable.js"></script>
 
-		/* Javascript library for sorting comes from http://www.kryogenix.org/code/browser/sorttable/ */
-		
+		!-- Javascript library for sorting comes from http://www.kryogenix.org/code/browser/sorttable/ --!
+
 	</head>
 <body>
 	<table class = "sortable" border= "1">
