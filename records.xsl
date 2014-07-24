@@ -12,6 +12,7 @@
 				<th>Condition</th>
 			</tr>
 		<xsl:for-each select="record">
+			<xsl:sort select="artist"/>
 			<tr>
 				<td><xsl:value-of select="title" /></td>
 				<td><xsl:value-of select="artist" /></td>
