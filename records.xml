@@ -26,9 +26,15 @@
 		<condition>nm</condition>
 	</record>
 	<record>
-	<title>Being There</title>
+		<title>Being There</title>
 		<artist>Wilco</artist>
 		<year>1996</year>
+		<condition>nm</condition>
+	</record>
+	<record>
+		<title>Fade</title>
+		<artist>Yo La Tengo</artist>
+		<year>2013</year>
 		<condition>nm</condition>
 	</record>
 </collection>
